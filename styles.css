@@ -1,0 +1,63 @@
+body {
+  background-color: #bfdcae;
+}
+
+a {
+  color: #206a5d;
+}
+
+a:hover {
+  color: #81b214;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Kalam', cursive;
+  text-shadow: 5px 0 #f2f4c0;
+  /* #232931; */
+  font-size: 6rem;
+  color: #206a5d;
+  /* #206a5d */
+}
+
+p {
+  font-size: 2rem;
+  color: #81b214;
+  font-family: 'Indie Flower', cursive;
+  /* 4ECCA3 */
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #206a5d;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+.btn-outline-light {
+  background-color: #206a5d;
+  outline-style: none;
+}
+
+.btn-outline-light:hover {
+  background-color: #81b214;
+}
+
+.roll-dice {
+  margin-top: 3rem;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
